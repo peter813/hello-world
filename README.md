@@ -1,3 +1,9 @@
-# hello-world
-just another repository
-a man is what he thinks all day long
+
+#include<iostream>
+  using namespace std;
+  
+  int main()
+  {
+    cout<<"Hello, World~";
+  }
+ 
